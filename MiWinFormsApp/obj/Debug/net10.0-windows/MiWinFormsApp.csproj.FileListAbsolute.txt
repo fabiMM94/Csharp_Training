@@ -1,0 +1,15 @@
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.AssemblyInfo.cs
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.sourcelink.json
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\bin\Debug\net10.0-windows\MiWinFormsApp.exe
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\bin\Debug\net10.0-windows\MiWinFormsApp.deps.json
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\bin\Debug\net10.0-windows\MiWinFormsApp.runtimeconfig.json
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\bin\Debug\net10.0-windows\MiWinFormsApp.dll
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\bin\Debug\net10.0-windows\MiWinFormsApp.pdb
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.dll
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\refint\MiWinFormsApp.dll
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.pdb
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\MiWinFormsApp.genruntimeconfig.cache
+C:\Users\fabian.medina\Documents\GitHub\Csharp_Training\MiWinFormsApp\obj\Debug\net10.0-windows\ref\MiWinFormsApp.dll

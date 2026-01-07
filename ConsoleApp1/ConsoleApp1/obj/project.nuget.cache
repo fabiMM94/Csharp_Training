@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "K+ZatZPPTNH0I5Vz09DVK70GjUeleQzT0wOk2XZzviWOPUEVhTKQrPV+zm1yQrd5X94FgLlKPdguzIjHEWPfxQ==",
+  "dgSpecHash": "AN+9npX1XRs=",
   "success": true,
   "projectFilePath": "C:\\Users\\fabian.medina\\Documents\\GitHub\\Csharp_Training\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fabian.medina\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\fabian.medina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\fabian.medina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\fabian.medina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
